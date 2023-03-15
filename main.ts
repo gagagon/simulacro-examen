@@ -38,6 +38,3 @@ for (let index = 0; index <= 4; index++) {
 basic.pause(2000)
 basic.clearScreen()
 led.plot(2, 2)
-basic.forever(function () {
-	
-})
